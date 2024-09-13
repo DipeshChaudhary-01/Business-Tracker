@@ -1,0 +1,1 @@
+The dashboard serves as a powerful tool for business decision-makers to quickly assess departmental performance and make informed decisions regarding resource allocation, growth opportunities, and cost optimizations.
